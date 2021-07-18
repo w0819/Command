@@ -1,0 +1,7 @@
+name: Command
+version: 1.0.0
+main: Command.Main
+another: w0819
+commands:
+  test:
+  kick:
